@@ -2,7 +2,7 @@
 
 ## Info 
 
-QRCoder is a simple library, written in C#.NET, which enables you to create QR codes. It hasn't any dependencies to other libraries and is available as .NET Framework and .NET Core PCL version on NuGet.
+QRCoder is a simple library, written in C#.NET, which enables you to create QR codes. It hasn't any dependencies to other libraries and is available as .NET Framework 4.5
 
 Feel free to grab-up/fork the project and make it better!
 
@@ -64,7 +64,6 @@ Besides the normal QRCode class (which is shown in the example above) for creati
 * [BitmapByteQRCode<sup></sup>](https://github.com/strawberryfield/QRCoder/wiki/Advanced-usage---QR-Code-renderers#24-bitmapbyteqrcode-renderer-in-detail)
 * [PngByteQRCode<sup></sup>](https://github.com/strawberryfield/QRCoder/wiki/Advanced-usage---QR-Code-renderers#25-pngbyteqrcode-renderer-in-detail)
 * [SvgQRCode<sup>*</sup>](https://github.com/strawberryfield/QRCoder/wiki/Advanced-usage---QR-Code-renderers#26-svgqrcode-renderer-in-detail)
-* [UnityQRCode<sup>*</sup>](https://github.com/strawberryfield/QRCoder/wiki/Advanced-usage---QR-Code-renderers#27-unityqrcode-renderer-in-detail)
 * [XamlQRCode<sup>*</sup>](https://github.com/strawberryfield/QRCoder/wiki/Advanced-usage---QR-Code-renderers#26-xamlqrcode-renderer-in-detail)
 * [PostscriptQRCode<sup>*</sup>](https://github.com/strawberryfield/QRCoder/wiki/Advanced-usage---QR-Code-renderers#29-postscriptqrcode-renderer-in-detail)
 
